@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/156319257'
+inLanguage: null
+starred: false
+keywords: []
+description: 'This is "Daniela & Diego" by on Vimeo, the home for high quality videos and the people who love them.'
+datePublished: '2016-02-22T21:08:06.019Z'
+dateModified: '2016-02-22T21:03:11.449Z'
 author:
   - name: Daniela
     url: 'http://vimeo.com/user49249595'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Daniela & Diego" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/156319257'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/156319257'
 title: 'Daniela & Diego'
-datePublished: '2016-02-22T21:01:41.182Z'
-dateModified: '2016-02-22T20:59:18.810Z'
 sourcePath: _posts/2016-02-22-daniela-and-diego.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
