@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is "Daniela & Diego" by on Vimeo, the home for high quality videos and the people who love them.'
-datePublished: '2016-02-22T21:08:06.019Z'
-dateModified: '2016-02-22T21:03:11.449Z'
+datePublished: '2016-02-22T21:12:09.365Z'
+dateModified: '2016-02-22T21:08:13.438Z'
 author:
   - name: Daniela
     url: 'http://vimeo.com/user49249595'
