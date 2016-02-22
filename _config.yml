@@ -1,0 +1,28 @@
+name: daniela-diego-wedding
+favicon: null
+layout_spectrum: 0.9838097374886274
+typography_spectrum: 0.11012073373422027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2672350511420518
+  lightness: 0.07283046492375433
+  saturation: 0.9007671421859413
+  rhythmicContrast: 0.5499724191613495
+purpose: []
